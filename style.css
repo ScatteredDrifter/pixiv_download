@@ -1,0 +1,12 @@
+body{
+    background-color:#ebbcba;
+}
+.maindiv{
+    background-color:#c4a7e7;
+    color:#1f1d2e;
+    display: flex;
+    flex-direction: row;
+}
+.divchild{
+    background-color:#31748f;
+}
